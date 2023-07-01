@@ -8,6 +8,7 @@ OR
 -> function along with it lexical scope bundle together forms closure.
 
 ## Uses of Closures :- 
+(We are not going deep into uses of closure)
 
 -> Module Design Pattern 
 
